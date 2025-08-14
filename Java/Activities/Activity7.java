@@ -1,4 +1,4 @@
-package Activites;
+package activites;
 
 public class Activity7 {
 
@@ -11,3 +11,4 @@ public class Activity7 {
 	}
 
 }
+
